@@ -52,7 +52,7 @@ The GUI of this application is simple & easy to use. Here's a snip of the GUI -
 **Ans -** You can hide your **EnctViewer.exe** file by following the instructions below -<br>
 1. Open **cmd**.
 2. **cd** into the directory in which the **EnctViewer.exe** is located.
-3. Type **attrib +h EnctViewer.exe**.
+3. Type **attrib +h EnctViewer.exe** and hit enter.
 4. Your *EnctViewer.exe* gets hidden, **not deleted**.
 <br>
 <br>
@@ -61,7 +61,7 @@ The GUI of this application is simple & easy to use. Here's a snip of the GUI -
 **Ans -** You can access the *EnctViewer.exe* file by following the steps below -
 1. Open **cmd**.
 2. **cd** into the directory in which you hid your **EnctViewer.exe** file.
-3. Type **EnctViewer.exe**.
+3. Type **EnctViewer.exe** and hit enter.
 4. The file opens !
 <br>
 <br>
@@ -70,5 +70,5 @@ The GUI of this application is simple & easy to use. Here's a snip of the GUI -
 **Ans -** You can make your **EnctViewer.exe** file visible by following the steps below -
 1. Open **cmd**.
 2. **cd** into the directory in which you hid your **EnctViewer.exe** file.
-3. Type **attrib -h EnctViewer.exe**.
+3. Type **attrib -h EnctViewer.exe** and hit enter.
 4. The file is now visible !
