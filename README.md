@@ -63,6 +63,8 @@ The GUI of this application is simple & easy to use. Here's a snip of the GUI -
 2. **cd** into the directory in which you hid your **EnctViewer.exe** file.
 3. Type **EnctViewer.exe**.
 4. The file opens !
+<br>
+<br>
 
 **Q3**. Now I want to make my *EnctViewer.exe* file visible, what should I do ?<br>
 **Ans -** You can make your **EnctViewer.exe** file visible by following the steps below -
