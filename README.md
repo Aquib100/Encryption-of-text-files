@@ -42,3 +42,31 @@ The GUI of this application is simple & easy to use. Here's a snip of the GUI -
 <br>
 <br>
 <img width="301" alt="image" src="https://user-images.githubusercontent.com/85285702/229552017-c5feb27e-d4c0-4cd7-8f40-5608227dea95.png">
+<br>
+<br>
+<br>
+<hr>
+
+# FAQ
+**Q1.** I have created an encrypted text file but anybody can view it using *EnctViewer.exe*. What should I do ?<br>
+**Ans -** You can hide your **EnctViewer.exe** file by following the instructions below -<br>
+1. Open **cmd**.
+2. **cd** into the directory in which the **EnctViewer.exe** is located.
+3. Type **attrib +h EnctViewer.exe**.
+4. Your *EnctViewer.exe* gets hidden, **not deleted**.
+<br>
+<br>
+
+**Q2.** I have followed the steps you mentioned in the answer of question 1, but now how do I access the *EnctViewer.exe* ?<br>
+**Ans -** You can access the *EnctViewer.exe* file by following the steps below -
+1. Open **cmd**.
+2. **cd** into the directory in which you hid your **EnctViewer.exe** file.
+3. Type **EnctViewer.exe**.
+4. The file opens !
+
+**Q3**. Now I want to make my *EnctViewer.exe* file visible, what should I do ?<br>
+**Ans -** You can make your **EnctViewer.exe** file visible by following the steps below -
+1. Open **cmd**.
+2. **cd** into the directory in which you hid your **EnctViewer.exe** file.
+3. Type **attrib -h EnctViewer.exe**.
+4. The file is now visible !
