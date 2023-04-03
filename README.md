@@ -66,9 +66,19 @@ The GUI of this application is simple & easy to use. Here's a snip of the GUI -
 <br>
 <br>
 
-**Q3**. Now I want to make my *EnctViewer.exe* file visible, what should I do ?<br>
+**Q3.** Now I want to make my *EnctViewer.exe* file visible, what should I do ?<br>
 **Ans -** You can make your **EnctViewer.exe** file visible by following the steps below -
 1. Open **cmd**.
 2. **cd** into the directory in which you hid your **EnctViewer.exe** file.
 3. Type **attrib -h EnctViewer.exe** and hit enter.
 4. The file is now visible !
+<br>
+<br>
+
+**Q4.** Does any of these applications stores any type of data ?
+**Ans -** No, not at all. None of your data is saved by any of these applicaitons.
+<br>
+<br>
+
+**Q5.** Which operating systems are supported by these applications ?
+**Ans -** Till now, only **Windows** is supported.
