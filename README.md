@@ -75,10 +75,10 @@ The GUI of this application is simple & easy to use. Here's a snip of the GUI -
 <br>
 <br>
 
-**Q4.** Does any of these applications stores any type of data ?
+**Q4.** Does any of these applications stores any type of data ?<br>
 **Ans -** No, not at all. None of your data is saved by any of these applicaitons.
 <br>
 <br>
 
-**Q5.** Which operating systems are supported by these applications ?
+**Q5.** Which operating systems are supported by these applications ?<br>
 **Ans -** Till now, only **Windows** is supported.
