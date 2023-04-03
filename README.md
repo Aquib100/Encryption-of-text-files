@@ -3,7 +3,7 @@ This repository contains two windows applications (exe) that are interdependent 
 <br>
 The file extension of the encrypted text file is **.enct**.
 <br>
-**ENCT** - Encrypted Text
+**ENCT** - **Enc**rypted **T**ext
 ## Instructions
 ### EnctCreator.exe
 This application is used to create encrypted text files.
@@ -37,6 +37,8 @@ Click on **Open**.
 <br>
 You will now see the decrypted text in the input field.
 <br>
+<br>
 The GUI of this application is simple & easy to use. Here's a snip of the GUI -
+<br>
 <br>
 <img width="301" alt="image" src="https://user-images.githubusercontent.com/85285702/229552017-c5feb27e-d4c0-4cd7-8f40-5608227dea95.png">
