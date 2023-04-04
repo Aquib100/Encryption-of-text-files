@@ -75,8 +75,8 @@ The GUI of this application is simple & easy to use. Here's a snip of the GUI -
 <br>
 <br>
 
-**Q4.** Does any of these applications stores any type of data ?<br>
-**Ans -** No, not at all. None of your data is saved by any of these applicaitons.
+**Q4.** Does any of these applications store any type of data ?<br>
+**Ans -** No, not at all. None of your data is saved by any of these applications.
 <br>
 <br>
 
@@ -85,5 +85,5 @@ The GUI of this application is simple & easy to use. Here's a snip of the GUI -
 <br>
 <br>
 
-**Q6.** Why doesn't the **.enct** file opens in **EnctViewer.exe** after it is double clicked ?<br>
+**Q6.** Why doesn't the **.enct** file open in **EnctViewer.exe** after it is double clicked ?<br>
 **Ans -** That's because the main purpose of these applications are to encrypt the text into an encrypted text file so that no body can access the content inside it. If double clicking the file opened it with **EnctViewer.exe**, so there will be no use of hiding the **EnctViewer.exe**.
