@@ -10,7 +10,7 @@ This application is used to create encrypted text files.
 <br>
 First you need to enter your desired text in the input area.
 <br>
-Then click on the **Encrypt & Save File** button present at the bottom-center of the screen.
+Then click on the **Encrypt & Save File** button present at the bottom-center in the GUI.
 <br>
 Name your file, for example - *Test*, and click on **Save**.
 <br>
@@ -29,7 +29,7 @@ The GUI of this application is simple & easy to use. Here's a snip of the GUI -
 ### EnctViewer.exe
 This application is used to decrypt the encrypted text files.
 <br>
-First click on the **Open .enct File**.
+First click on the **Open .enct File** button located at the bottom-center in the GUI.
 <br>
 Select your .enct file.
 <br>
