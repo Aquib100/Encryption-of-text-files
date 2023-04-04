@@ -82,3 +82,8 @@ The GUI of this application is simple & easy to use. Here's a snip of the GUI -
 
 **Q5.** Which operating systems are supported by these applications ?<br>
 **Ans -** Till now, only **Windows** is supported.
+<br>
+<br>
+
+**Q6.** Why doesn't the **.enct** file opens in **EnctViewer.exe** after it is double clicked ?<br>
+**Ans -** That's because the main purpose of these applications are to encrypt the text into an encrypted text file so that no body can access the content inside it. If double clicking the file opened it with **EnctViewer.exe**, so there will be no use of hiding the **EnctViewer.exe**.
