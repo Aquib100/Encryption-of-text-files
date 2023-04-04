@@ -57,7 +57,7 @@ The GUI of this application is simple & easy to use. Here's a snip of the GUI -
 <br>
 <br>
 
-**Q2.** I have followed the steps you mentioned in the answer of question 1, but now how do I access the *EnctViewer.exe* ?<br>
+**Q2.** I have followed the steps you mentioned in *Answer 1*, but now how do I access the **EnctViewer.exe** ?<br>
 **Ans -** You can access the *EnctViewer.exe* file by following the steps below -
 1. Open **cmd**.
 2. **cd** into the directory in which you hid your **EnctViewer.exe** file.
